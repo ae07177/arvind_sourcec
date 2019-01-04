@@ -1,3 +1,3 @@
 #!/usr/bin/python
 import subprocess,sys
-print "Hi ", name
+print "Hi ", sys.argv[1]
